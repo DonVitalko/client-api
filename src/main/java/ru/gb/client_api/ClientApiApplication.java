@@ -1,4 +1,4 @@
-package ru.gb.clientapi;
+package ru.gb.client_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
